@@ -8,7 +8,7 @@ from IPython.display import display
 from IPython.display import Markdown
 
 # Or use `os.getenv('GOOGLE_API_KEY')` to fetch an environment variable.
-GOOGLE_API_KEY='AIzaSyAEMC69txfkq_jTjClRwk7KXHYplgzvpPg'
+GOOGLE_API_KEY= #API KEY
 
 genai.configure(api_key=GOOGLE_API_KEY)
 

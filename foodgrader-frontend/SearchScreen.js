@@ -3,7 +3,7 @@ import { View, TextInput, FlatList, Text, StyleSheet } from 'react-native';
 import { ScrollView } from 'react-native-gesture-handler';
 import { useNavigation } from '@react-navigation/native';
 
-const URL = 'https://97d0-2401-4900-4e53-1983-6940-8026-d41-8418.ngrok-free.app'
+const URL = #URL
 const path = '/fetchItem'
 const SearchScreen = () => {
   const navigation = useNavigation();
